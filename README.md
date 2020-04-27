@@ -33,3 +33,12 @@ Die DIY Musikbox (nicht nur) für Kinder
 - Durch einen langen Druck auf Play/Pause kann **eine Karte neu konfiguriert** werden
 - In den Auswahldialogen kann durch langen Druck auf die Lautstärketasten jeweils um 10 Ordner oder Dateien vor und zurück gesprungen werden
 - Reset des MP3 Moduls beim Start entfernt - war nicht nötig und hat "Krach" gemacht
+
+
+Ähnliche Projekte
+https://github.com/ghmartin77/KidsMP3Player
+ghmartin77/KidsMP3Player: sehr gelungene  Bauanleitung für einen komplett eigenen Kinder MP3 Player jedoch mit vielen Knöpfen anstelle der RFID Karten – verwendet ebenfalls den DFPlayer mini aber einen ATTiny85 anstelle des Arduinos
+PHONIEBOX: RFID Jukebox mit einem Raspberry Pi – 100% Plug and Play, kommt komplett ohne Löten aus, dank WLAN sind auch Radiostreams und Podcasts abspielbar.
+TheNitek/RfidShelf: Claus hat eine ganz ähnliche Lösung direkt in ein Ikea Regal eingebaut. Er verwendet einen Esp8266 bzw. NodeMCU und ein anderes MP3 Modul (VS1053).
+Put’n’Play Cube: Bei diesem Projekt kann man sehr schön sehen was alles möglich ist. „Up to eleven!“
+BReaBox II: Stefan hat das  Nostalgieradio TERRIS NRB 264  mit einem Raspberry Pi Zero in einen Hörbuch Player mit IR Fernbedingung umgebaut
